@@ -1,0 +1,16 @@
+          <div class="span3">
+            <ul class="nav nav-list">
+              <li class="nav-header">Volunteer</li>
+              <li><a href="/about#bios">Register</a></li>
+              <li><a href="/about#bios">Application</a></li>
+              <li><a href="/about#history">E-Mail Alert</a></li>
+            </ul>          
+          </div>
+          <div class="span3">
+            <ul class="nav nav-list">
+              <li class="nav-header">Need Help</li>
+              <li><a href="/about#bios">Register</a></li>
+              <li><a href="/about#bios">Application</a></li>
+              <li><a href="/about#history">Verification</a></li>
+            </ul>          
+          </div> 
